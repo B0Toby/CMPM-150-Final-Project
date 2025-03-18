@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{e3c255a6-fa41-46f4-a6e8-e06adbcb3261}">
+		<property name="assetPath">
+			<value>fastBreath2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.8371655328798187</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e96bc4b5-4558-4ce7-ba8b-256359a7616e}</destination>
+		</relationship>
+	</object>
+</objects>

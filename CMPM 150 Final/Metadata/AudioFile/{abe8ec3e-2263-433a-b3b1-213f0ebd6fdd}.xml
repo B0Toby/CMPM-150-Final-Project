@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{abe8ec3e-2263-433a-b3b1-213f0ebd6fdd}">
+		<property name="assetPath">
+			<value>midBreath6.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.0029931972789115</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e96bc4b5-4558-4ce7-ba8b-256359a7616e}</destination>
+		</relationship>
+	</object>
+</objects>
