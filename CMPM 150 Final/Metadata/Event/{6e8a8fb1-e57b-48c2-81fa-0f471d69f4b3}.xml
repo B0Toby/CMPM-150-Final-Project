@@ -184,6 +184,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{0152c562-dba1-4c95-a39d-8e483a9271d5}">
+		<property name="volume">
+			<value>3.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 7</value>
 		</property>
@@ -264,6 +267,7 @@
 	<object class="MixerBusEffectChain" id="{2af37370-e927-4268-8c20-c10547293121}">
 		<relationship name="effects">
 			<destination>{8dc0ff9a-6259-45cf-8010-c7a8564fc341}</destination>
+			<destination>{0037dac5-e92c-49c9-b9a6-a1ec7037aebc}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{bf95b385-6f85-4363-a0c6-72216f8283c2}" />
@@ -299,6 +303,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{30a9351e-d7c5-4830-bd39-fd3d200da42a}" />
 	<object class="MixerBusFader" id="{8dc0ff9a-6259-45cf-8010-c7a8564fc341}" />
+	<object class="LimiterEffect" id="{0037dac5-e92c-49c9-b9a6-a1ec7037aebc}" />
 	<object class="MixerBusFader" id="{c25de28a-d9c2-4948-afad-5979932f1ce7}" />
 	<object class="MixerBusFader" id="{ac1dd4bd-e601-43b1-bac1-0c36b63a24a9}" />
 	<object class="MixerBusFader" id="{978a5a3d-b6b1-4c23-b263-43c00ec053c4}" />
