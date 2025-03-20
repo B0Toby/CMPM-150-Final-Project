@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{a34c97f7-7356-4772-b3ba-554a58980b7f}">
+		<property name="assetPath">
+			<value>space noise.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>84.206258503401358</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e96bc4b5-4558-4ce7-ba8b-256359a7616e}</destination>
+		</relationship>
+	</object>
+</objects>

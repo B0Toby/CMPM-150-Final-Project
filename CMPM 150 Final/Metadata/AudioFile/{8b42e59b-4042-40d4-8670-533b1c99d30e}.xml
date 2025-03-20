@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8b42e59b-4042-40d4-8670-533b1c99d30e}">
+		<property name="assetPath">
+			<value>invetory.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.0390702947845805</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e96bc4b5-4558-4ce7-ba8b-256359a7616e}</destination>
+		</relationship>
+	</object>
+</objects>
