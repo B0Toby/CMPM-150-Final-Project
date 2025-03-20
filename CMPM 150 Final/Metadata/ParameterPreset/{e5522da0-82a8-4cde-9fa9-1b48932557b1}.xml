@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{e5522da0-82a8-4cde-9fa9-1b48932557b1}">
+		<property name="name">
+			<value>Dist from CapShip</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a20b582d-b0f0-4bd0-93ed-2d403053ef7b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{37df5e60-5889-4c4a-a383-f085671bd856}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{37df5e60-5889-4c4a-a383-f085671bd856}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>100</value>
+		</property>
+	</object>
+</objects>

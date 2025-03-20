@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{d11d9de0-9bdf-40ec-892d-d74e9ddb2503}">
+		<property name="name">
+			<value>Progress</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a20b582d-b0f0-4bd0-93ed-2d403053ef7b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a3fa5db0-d689-4572-9460-4697c1d5319b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a3fa5db0-d689-4572-9460-4697c1d5319b}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
