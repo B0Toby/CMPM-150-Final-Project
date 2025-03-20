@@ -375,7 +375,7 @@
 			<value>-4.5</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Engine loop</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{577a7120-4c1d-49d2-8bfa-14a853fd81f5}</destination>
@@ -676,7 +676,7 @@
 			<value>-9</value>
 		</property>
 		<property name="name">
-			<value>Audio 4</value>
+			<value>Boost Blast</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{25fd801f-c56e-4da8-a796-2eab536a68f2}</destination>
@@ -751,7 +751,7 @@
 			<value>1</value>
 		</property>
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Flaps</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{d401ceb4-4f8b-4b16-abfd-431418fae65b}</destination>
@@ -868,7 +868,7 @@
 			<value>-14.5</value>
 		</property>
 		<property name="name">
-			<value>Audio 3</value>
+			<value>Harmonics</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{d73ecdd8-7944-47b3-adc1-55ff227062bf}</destination>

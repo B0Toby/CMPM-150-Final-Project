@@ -105,7 +105,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{8bc7a387-f870-4034-a417-59eafaed4039}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Hydraulic Airlock</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{fa60bae8-7854-4685-b93f-18f1205793b5}</destination>
@@ -136,7 +136,7 @@
 			<value>-12</value>
 		</property>
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Air Pressure</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{c5af97fe-450b-41f4-a6c7-17ba07019666}</destination>

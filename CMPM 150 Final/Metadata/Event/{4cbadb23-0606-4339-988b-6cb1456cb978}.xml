@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{4cbadb23-0606-4339-988b-6cb1456cb978}">
 		<property name="name">
-			<value>Shield</value>
+			<value>Ship Shield</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -142,7 +142,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{ebc9950b-4dd1-432f-9f44-5cc10eb8d4cf}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Shield</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{faa7feaf-a1e0-4599-89dd-bcd5c21fb9e2}</destination>
@@ -224,7 +224,7 @@
 			<value>-13</value>
 		</property>
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Electricity</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{8eed3347-19dc-4156-8b63-835d73bce086}</destination>
